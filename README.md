@@ -1,4 +1,4 @@
-Encontrar elementos no HTML:
+ Encontrar elementos no HTML:
 - find_element(By.ID, 'id')
 - find_element(By.NAME, 'name')
 - find_element(By.XPATH, 'xpath')
